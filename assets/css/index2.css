@@ -1,0 +1,81 @@
+*{
+	color: white;
+}
+body{
+	margin-top: 50px;
+	margin-bottom: 100px;
+	background-image: url(../img/index2.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#header{
+	margin-top: 10px;
+	margin-left: 670px;
+
+}
+#atas {
+	margin-top: 5px;
+	height: 40px;
+	width: 40px;
+	border-radius: 100%;
+	clear: both;
+}
+.glyphicon-home{
+	margin-left: 30px;
+}
+h1{
+	color: black;
+	text-shadow: 1px 1px 10px rgb(255,255,255);
+}
+h2{
+	color: red;
+}
+hr {
+	width: 350px;
+	border-top: 3px solid #999;
+}
+table img{
+	width: 100px;
+	height: 100px;
+}
+
+img{
+	margin: 15px 25px;
+	height: 120px;
+	width: 120px;
+
+}
+.nama{
+	color: black;
+	margin-top: -115px;
+	margin-left: 190px; 
+	line-height: 30px;
+	text-align: center;
+}
+.tahunBerdiri{
+	color: black;
+	margin-top: -15px;
+	margin-left: 192px;
+	text-align: center; 
+}
+footer {
+	position:relative;
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	padding-top: 20px;
+	margin-top: 50px;
+}
+footer p {
+	color: #aaa;
+	font-size: 1em;
+}
+footer p a{
+	color: aqua;
+}
+footer p i {
+		color:salmon;
+
+}
+}
